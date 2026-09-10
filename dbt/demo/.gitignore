@@ -1,0 +1,11 @@
+target/
+dbt_packages/
+logs/
+*.duckdb
+*.duckdb.wal
+.user.yml
+data/
+web/*.parquet
+.venv/
+.DS_Store
+dbt_internal_packages/
